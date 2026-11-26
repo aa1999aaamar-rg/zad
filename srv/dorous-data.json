@@ -1,0 +1,437 @@
+{
+ "checked_at": "2026-10-25T01:39:17+00:00",
+ "sheikhs": [
+  {
+   "key": "binbaz",
+   "name": "الإمام عبدالعزيز بن باز",
+   "short": "ابن باز",
+   "note": "رحمه الله",
+   "channels": [
+    {
+     "id": "UCiiJRwQ0MUaQo8ZZuf18pPw",
+     "handle": "@Al.Shikh.IbnBaz",
+     "title": "القناة الرسمية لموقع سماحة الشيخ عبدالعزيز بن باز",
+     "verify": {
+      "method": "official-site",
+      "source": "https://binbaz.org.sa/",
+      "detail": "The homepage embeds youtube.com/embed/0Zcsx_gEnYw; YouTube oEmbed names its owner as @Al.Shikh.IbnBaz. The channel title is «القناة الرسمية لموقع سماحة الشيخ». No verified badge."
+     },
+     "playlists": [
+      {
+       "id": "PLJQhLRk4lcEwSa-L1W2QgrGJV1kpWDugm",
+       "title": "صفة الصلاة",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLJQhLRk4lcEx4suA7GM9Vy3wh9xSFAnfK",
+       "title": "أحكام الصلاة",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLJQhLRk4lcEy82vTbgMWuPnnH0TDz3Iqu",
+       "title": "أحكام الحج والعمرة",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLJQhLRk4lcEw-tZZKlYRAT9LITv9I4MIZ",
+       "title": "أحكام الجنائز",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLJQhLRk4lcEwIs0DJ_iyHc_ccoNbZiuZn",
+       "title": "أحكام المساجد والجماعة",
+       "topic": "فقه"
+      }
+     ]
+    },
+    {
+     "id": "UCXI4M81wRAVYlFPw7V1l3Mw",
+     "handle": "@Alsheikhbinbaz",
+     "title": "فضيلة الشيخ ابن باز Alsheikh Binbaz",
+     "verify": {
+      "method": "verified-badge",
+      "source": "https://www.youtube.com/@Alsheikhbinbaz",
+      "detail": "ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25). Its playlists are labelled «مشروع كبار العلماء»: a project channel, not the binbaz.org.sa site's own channel."
+     },
+     "playlists": [
+      {
+       "id": "PLR5BwP-_k_XY",
+       "title": "جميع فوائد من شرح العقيدة الطحاوية  _ مشروع كبار العلماء",
+       "topic": "عقيدة"
+      },
+      {
+       "id": "PLGMIuwaoOJlI",
+       "title": "الحديث والأذكار  _ فوائد من شرح كتاب الاستقامة _ مشروع كبار العلماء",
+       "topic": "حديث"
+      },
+      {
+       "id": "PLYsjGWss4rT8",
+       "title": "كتاب المعاملات  _ فوائد من شرح كتاب الاستقامة _ مشروع كبار العلماء",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLXyafXhPXJ_4",
+       "title": "الآداب والأخلاق والرقائق  _ فوائد من شرح كتاب الاستقامة _ مشروع كبار العلماء",
+       "topic": "رقائق"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "uthaymeen",
+   "name": "الإمام محمد بن صالح العثيمين",
+   "short": "ابن عثيمين",
+   "note": "رحمه الله",
+   "channels": [
+    {
+     "id": "UCtF3YygTiodnYSw8vD3UJtQ",
+     "handle": "@ibnothaimeentv",
+     "title": "قناة الشيخ محمد ابن عثيمين الرسمية",
+     "verify": {
+      "method": "both",
+      "source": "https://binothaimeen.net/",
+      "detail": "The homepage data links youtube.com/watch?v=shx8zJhl6kA&list=PLiTKQO5a7ZXmjwOd5RJBI80yJpunudiQY; oEmbed owner @ibnothaimeentv; that playlist is on this channel. Also: ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25)"
+     },
+     "playlists": [
+      {
+       "id": "PLiTKQO5a7ZXk638FPDSpyWQt_Ybwmbhdz",
+       "title": "كتاب الحج من بلوغ المرام",
+       "topic": "حديث"
+      },
+      {
+       "id": "PLiTKQO5a7ZXnTMXrRK-04R2YHHDwab3nt",
+       "title": "كتاب الصيام من بلوغ المرام",
+       "topic": "حديث"
+      },
+      {
+       "id": "PLiTKQO5a7ZXmpi1-BTd1d4tb8F_TZFDUy",
+       "title": "تفسير سورة يس",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLiTKQO5a7ZXnL1xguqJbmk3e3-Y6GFRC7",
+       "title": "تفسير سورة العنكبوت",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLiTKQO5a7ZXnW3leLCeeKK0vdUMiYt1OY",
+       "title": "فتاوى وتوجيهات",
+       "topic": "فقه"
+      }
+     ]
+    },
+    {
+     "id": "UCFjzJYgxHjk44AFoEwwgPjg",
+     "handle": "@ALUthaymeen",
+     "title": "فضيلة الشيخ محمد بن صالح العثيمين",
+     "verify": {
+      "method": "verified-badge",
+      "source": "https://www.youtube.com/@ALUthaymeen",
+      "detail": "ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25). Its playlists are the «فوائد … الشيخ محمد بن صالح العثيمين» project series (الشرح الممتع، السفارينية)."
+     },
+     "playlists": [
+      {
+       "id": "PLcH0u63Cd53E",
+       "title": "كتاب الصلاة (القسم الثاني)- الشرح الممتع على زاد المستقنع - الشيخ محمد بن صالح العثيمين - مشروع كبار العلماء",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLXS0usquloW8BuEASz0Scmq8iKEu2xk2r",
+       "title": "كتاب الصلاة ( باب صلاة الجماعة ) - الشرح الممتع على زاد المستقنع - الشيخ محمد بن صالح العثيمين",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLXS0usquloW8MzAXUnLqHgvIJjzk90qnR",
+       "title": "السيرة والتاريخ - شرح العقيدة السفارينية لفضيلة الشيخ محمد بن صالح العثيمين - مشروع كبار العلماء",
+       "topic": "سيرة"
+      },
+      {
+       "id": "PLXS0usquloW9ejEn0ieZUUU9BuBR51ZXg",
+       "title": "البر والصلة والأخلاق والآداب - فوائد الخطب والمحاضرات - الشيخ محمد بن صالح العثيمين - مشروع كبار العلماء",
+       "topic": "رقائق"
+      },
+      {
+       "id": "PLXS0usquloW8SL_KLESEh6bqBIDaaAX8_",
+       "title": "القرآن وعلومه - فوائد الخطب والمحاضرات - الشيخ محمد بن صالح العثيمين - مشروع كبار العلماء",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLXS0usquloW_xrwdaNWkyRRN-LayUBogu",
+       "title": "كتاب الصلاة ( باب صلاة أهل الأعذار ) - الشرح الممتع على زاد المستقنع - الشيخ محمد بن صالح العثيمين - مشروع كبار العلماء",
+       "topic": "فقه"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "fawzan",
+   "name": "العلامة صالح بن فوزان الفوزان",
+   "short": "الفوزان",
+   "note": "",
+   "channels": [
+    {
+     "id": "UCi7vzSJrU3beV_6Sdgpowng",
+     "handle": "@dralfawzann",
+     "title": "العلامة الدكتور صالح الفوزان",
+     "verify": {
+      "method": "verified-badge",
+      "source": "https://www.youtube.com/@dralfawzann",
+      "detail": "ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25). The official site alfawzan.af.org.sa currently shows «Account Suspended», so the site could not be used."
+     },
+     "playlists": [
+      {
+       "id": "PLUSSU9PpD1MM",
+       "title": "الفتاوى المستخرجة من دروس شرح قرة عيون الموحدين لفضيلة العلامة صالح الفوزان - مشروع كبار العلماء",
+       "topic": "عقيدة"
+      },
+      {
+       "id": "PLfwOsxPIlBHY",
+       "title": "تفسير سورة الملك - المجالس في تفسير المفصل - الشيخ صالح بن فوزان الفوزان - مشروع كبار العلماء",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLNuMHNlkrjvo",
+       "title": "تفسير سورة الرحمن - المجالس في تفسير المفصل - الشيخ صالح بن فوزان الفوزان - مشروع كبار العلماء",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLMoItXDDHGNk",
+       "title": "تفسير سورة الواقعة - المجالس في تفسير المفصل - الشيخ صالح بن فوزان الفوزان - مشروع كبار العلماء",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLPpwiT9nURTg",
+       "title": "تفسير سورة النبأ - المجالس في تفسير المفصل - الشيخ صالح بن فوزان الفوزان - مشروع كبار العلماء",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLaByyisBBLlo",
+       "title": "تفسير سورة الفجر - المجالس في تفسير المفصل - الشيخ صالح بن فوزان الفوزان - مشروع كبار العلماء",
+       "topic": "تفسير"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ifta",
+   "name": "الرئاسة العامة للبحوث العلمية والإفتاء",
+   "short": "الإفتاء",
+   "note": "",
+   "channels": [
+    {
+     "id": "UCMA_3yMgxZKgNteEvXtkxmA",
+     "handle": "@الرئاسةالعامةللبحوثالعلميةوالإ",
+     "title": "الرئاسة العامة للبحوث العلمية و الإفتاء",
+     "verify": {
+      "method": "official-site",
+      "source": "https://alifta.gov.sa/",
+      "detail": "The site's app bundle (main.470a3b90d578156f.js) links youtube.com/@الرئاسةالعامةللبحوثالعلميةوالإ, which resolves to this channel id. No verified badge. The channel has no public playlists; use the channel feed."
+     },
+     "playlists": []
+    }
+   ]
+  },
+  {
+   "key": "haramain",
+   "name": "الحرمان الشريفان",
+   "short": "الحرمين",
+   "note": "دروس وخطب المسجد الحرام والمسجد النبوي",
+   "channels": [
+    {
+     "id": "UC3QAoXf9GN9xeQYhk-AZbTg",
+     "handle": "@twjehDM",
+     "title": "دروس المسجد الحرام",
+     "verify": {
+      "method": "verified-badge",
+      "source": "https://www.youtube.com/@twjehDM",
+      "detail": "ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25). The channel carries the Masjid al-Haram lessons and courses."
+     },
+     "playlists": [
+      {
+       "id": "PLgaTRTylCbZBo1HG_DdyY3EfKlgzZHSoa",
+       "title": "( تفسير سورة آل عمران ) | لفضيلة الشيخ د.طلال أبوالنور",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLc9ShL3suNMA",
+       "title": "( كتاب الزكاة من عمدة الأحكام ) لمعالي الشيخ صالح بن حميد",
+       "topic": "حديث"
+      },
+      {
+       "id": "PLTYnox4-yXVo",
+       "title": "السيرة النبوية ( أهل السنة والجماعة ، أهل محبة واتباع )",
+       "topic": "سيرة"
+      },
+      {
+       "id": "PLgaTRTylCbZDVif1yOeGxYFveILItQH9F",
+       "title": "( شرح كتاب أمراض القلوب لابن تيمية ) لمعالي الشيخ سعد الشثري 1447",
+       "topic": "رقائق"
+      },
+      {
+       "id": "PLXyVu5ZDTcB8",
+       "title": "( شرح رسالة التبرك والتوسل والقبور لابن باز رحمه الله ) لفضيلة الشيخ أ.د.سليمان الغصن",
+       "topic": "عقيدة"
+      },
+      {
+       "id": "PLA3pCH_a0aXo",
+       "title": "برنامج ميراث (2) - روائع دروس كبار العلماء الراحلين بالمسجد الحرام",
+       "topic": "عام"
+      }
+     ]
+    },
+    {
+     "id": "UC-G8RL7iYJt5L_-7F5bRKLA",
+     "handle": "@Emam_moathen",
+     "title": "شؤون الأئمة والمؤذنين",
+     "verify": {
+      "method": "verified-badge",
+      "source": "https://www.youtube.com/@Emam_moathen",
+      "detail": "ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25). prh.gov.sa has a news item announcing the presidency's launch of the «شؤون الأئمة والمؤذنين» YouTube channel (text only; no link was found on the fetched pages)."
+     },
+     "playlists": [
+      {
+       "id": "PLLzTZqpmhL6g",
+       "title": "خطب الجمعة 1447هـ.",
+       "topic": "عام"
+      },
+      {
+       "id": "PLLQoKlevNVshKFmcEPaLMNlvkEUBSKquj",
+       "title": "قبسات التراويح والتهجد 1446هـ.",
+       "topic": "رقائق"
+      }
+     ]
+    },
+    {
+     "id": "UCROKYPep-UuODNwyipe6JMw",
+     "handle": "@SaudiSunnahTv",
+     "title": "قناة السنة النبوية",
+     "verify": {
+      "method": "verified-badge",
+      "source": "https://www.youtube.com/@SaudiSunnahTv",
+      "detail": "ytInitialData header pageHeaderViewModel.title carries the CHECK_CIRCLE_FILLED verified-badge attachment (fetched with Accept-Language: ar, 2026-10-25). The official Saudi Sunnah TV channel (Madinah); its playlists include مواعظ, محاضرة and خطب."
+     },
+     "playlists": [
+      {
+       "id": "PLOQF7dyeqG3M",
+       "title": "مواعظ",
+       "topic": "رقائق"
+      },
+      {
+       "id": "PLuWjV3gkQAZKiOhRI43VtsKjdSOsR1qxH",
+       "title": "محاضرة",
+       "topic": "عام"
+      },
+      {
+       "id": "PLuWjV3gkQAZJkPB6Jjptzy2NE7xAMeWix",
+       "title": "خطبتي وصلاة الجمعة",
+       "topic": "عام"
+      },
+      {
+       "id": "PLuWjV3gkQAZLpivMfywQvMHTa2lB2LRoo",
+       "title": "أحاديث صحيحة عن النبي -صلى الله عليه وسلم-",
+       "topic": "حديث"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "khudheir",
+   "name": "الشيخ عبدالكريم بن عبدالله الخضير",
+   "short": "الخضير",
+   "note": "",
+   "channels": [
+    {
+     "id": "UC-wxTuufjbzJ6O9iN57iy6Q",
+     "handle": "@ShKhudheir",
+     "title": "دروس معالي الشيخ الدكتور عبد الكريم الخضير",
+     "verify": {
+      "method": "official-site",
+      "source": "https://shkhudheir.com/lessons-schedule",
+      "detail": "The page links youtube.com/user/ShKhudheir and youtube.com/shkhudheir; both resolve to this channel id. Lesson pages on the site link it too. No verified badge."
+     },
+     "playlists": [
+      {
+       "id": "PLXQbyHRXkWsC3akhf167hYRP88j5sudYM",
+       "title": "سلسلة شرح الأصول الثلاثة",
+       "topic": "عقيدة"
+      },
+      {
+       "id": "PLXQbyHRXkWsAaXtFm0sjNCNXerI_-WGA2",
+       "title": "سلسلة شرح الأربعين النووية",
+       "topic": "حديث"
+      },
+      {
+       "id": "PLXQbyHRXkWsBmC4uIzYa_-PirBkEoWC_n",
+       "title": "شرح المقنع في فقه الإمام أحمد (نسخة البث)",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLXQbyHRXkWsDEXiBw22u_VeZ81dH9BOfd",
+       "title": "سلسلة شرح المنظومة البيقونية",
+       "topic": "حديث"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ruhaili",
+   "name": "الشيخ سليمان بن سليم الله الرحيلي",
+   "short": "الرحيلي",
+   "note": "",
+   "channels": [
+    {
+     "id": "UCE_hp7qD8eRrxTmDSB8i58A",
+     "handle": "@sualruhaily",
+     "title": "الموقع الرسمي لفضيلة الشيخ أ. د. سليمان الرحيلي",
+     "verify": {
+      "method": "official-site",
+      "source": "https://www.sualruhaily.com/",
+      "detail": "The homepage links youtube.com/channel/UCE_hp7qD8eRrxTmDSB8i58A/videos. No verified badge."
+     },
+     "playlists": [
+      {
+       "id": "PLP09LljfNQyc",
+       "title": "شرح كتاب التوحيد (الشرح الثاني) | عام ١٤٤٨ هـ | الشيخ سليمان الرحيلي",
+       "topic": "عقيدة"
+      },
+      {
+       "id": "PLZ9so3er6Jc0PGXfyh5slKGdqmw55TcrR",
+       "title": "أصول السنة للإمام أحمد بن حنبل (المسجد النبوي ١٤٤٦) الشرح الثاني  (شرح متوسط)",
+       "topic": "عقيدة"
+      },
+      {
+       "id": "PLZ9so3er6Jc3Z7v6wwah6GOygtkPzSful",
+       "title": "شرح صفة صلاة النبي ﷺ للإمام ابن باز (المسجد النبوي ١٤٤٦ هـ)",
+       "topic": "فقه"
+      },
+      {
+       "id": "PLZ9so3er6Jc0CseLHnZBQodibqPmYnD2H",
+       "title": "شرح المختصر صفات النبي ﷺ لابن تيمية (بالمسجد النبوي ١٤٤٦ هـ)",
+       "topic": "سيرة"
+      },
+      {
+       "id": "PLZ9so3er6Jc2o_Q8ZI95HkmHgdsvFaHEF",
+       "title": "شرح كتاب الحج من صحيح مسلم ( بالمسجد النبوي ١٤٣٩-١٤٤٦) (مكتمل)",
+       "topic": "حديث"
+      },
+      {
+       "id": "PLZ9so3er6Jc1Ta9vGvPCUf_A4PFurTa2e",
+       "title": "أمثال القرآن أهميتها ومقاصدها ( عام ١٤٣٧ هـ بالإمارات)",
+       "topic": "تفسير"
+      },
+      {
+       "id": "PLZ9so3er6Jc3PaZ9LV492cnUYCxYtlCOx",
+       "title": "شرح كتاب اعتقاد أهل السنة للإسماعيلي (أندونيسيا ١٤٤٥ هـ)",
+       "topic": "عقيدة"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

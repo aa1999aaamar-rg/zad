@@ -1,0 +1,30 @@
+/* زاد v4.7 phase 3 «محتوى موثق»: lazy module on zad-content.sites.tab.bot/x/zb3.js.
+   Sources: verses = api.alquran.cloud quran-uthmani (embedded at build) / quran.com API v4 at runtime; word meanings = «السراج في بيان غريب القرآن» (الخضيري) and «الميسر في غريب القرآن» (مجمع الملك فهد) via tafsir.app (الباحث القرآني) through /api/tq; أسباب النزول = الواحدي via the same; translations = quran.com API v4; rulings = binbaz.org.sa / alifta.gov.sa / islamqa.info quotes with links; hadith = sunnah.com letter-matched with grade. Local state: S.zb3 (and zad.w3 for the private women tracker, never in S/backup). */
+(function(){'use strict';if(window.ZB3||!window.ZS)return;
+const D3=/*@@DATA@@*/null;
+const zi=ZS.zi,F=ZS.F,$1=s=>document.querySelector(s),$a=s=>[...document.querySelectorAll(s)];
+const Z=S.zb3||(S.zb3={});
+const sv=()=>{try{save()}catch(e){}};
+const ar=x=>typeof AR==='function'?AR(x):String(x).replace(/\d/g,d=>'٠١٢٣٤٥٦٧٨٩'[d]);
+const e=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const num=v=>{const n=parseFloat(String(v==null?'':v).replace(/[٠-٩]/g,d=>'٠١٢٣٤٥٦٧٨٩'.indexOf(d)).replace('٫','.').replace(/,/g,''));return isFinite(n)?n:0};
+const money=n=>ar((Math.round(n*100)/100).toLocaleString('en-US'));
+const tst=m=>{try{toast(m)}catch(x){}};
+const hubBack=r=>{const s=ZS.hubOf?ZS.hubOf(r):null;return s?`<button class="back" onclick="location.hash='sec/${s.id}'">${zi('chev')} ${s.n}</button>`:`<button class="back" onclick="history.back()">${zi('chev')} رجوع</button>`};
+const head=(r,sub)=>`${hubBack(r)}<h1 class="page">${F[r]?F[r][0]:''}</h1>${sub?`<p class="znote">${sub}</p>`:''}`;
+const sec=(t,ic,h,cls)=>`<section class="zcard${cls?' '+cls:''}">${t?`<h3>${ic?zi(ic):''}${t}</h3>`:''}${h}</section>`;
+const CHN=n=>{try{if(typeof CH==='function'){const c=CH(n);const s=Array.isArray(c)?c[1]:typeof c==='string'?c:c&&(c.ar||c.name);if(typeof s==='string')return s.replace(/^سورة\s*/,'')}}catch(x){}return D3.sn[n-1]||String(n)};
+const AYN=n=>D3.na[n-1]||7;
+const lnk=(u,t)=>`<a href="${e(u)}" target="_blank" rel="noopener">${t}</a>`;
+const site=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(x){return''}};
+const SITEN={'binbaz.org.sa':'موقع الشيخ ابن باز','alifta.gov.sa':'الرئاسة العامة للإفتاء','islamqa.info':'الإسلام سؤال وجواب','sunnah.com':'sunnah.com'};
+const quote=it=>`<blockquote class="zb-q">${e(it.quote||'').replace(/\n/g,'<br>')}<a href="${e(it.url)}" target="_blank" rel="noopener">${SITEN[site(it.url)]||site(it.url)} ↗</a></blockquote>`;
+const items=s=>(D3.A||[]).filter(x=>x.sec===s);
+const hadith=h=>`<div class="zb-h"><div class="zhad">«${h.ar}»</div><div class="zref">${lnk(h.url,e(h.ref))} · ${e(h.grade)}</div></div>`;
+const hs=s=>(D3.H||[]).filter(x=>x.sec===s);
+const verse=k=>{const v=D3.ay[k];if(!v)return'';const[s,a]=k.split(':');return`<div class="zb-v sm">﴿${v}﴾</div><div class="zref">[${CHN(+s)}: ${ar(a)}]</div>`};
+const verses=(s,a,b)=>{let t=[];for(let i=a;i<=b;i++){const v=D3.ay[s+':'+i];if(v)t.push(v+' ('+ar(i)+')')}return`<div class="zb-v sm">﴿${t.join(' ')}﴾</div><div class="zref">[${CHN(s)}: ${ar(a)}${b>a?'–'+ar(b):''}]</div>`};
+const mapL=(n,c)=>`https://www.google.com/maps/search/?api=1&query=${c[0]},${c[1]}`;
+const surahSel=(id,cur)=>`<select class="zb-in" id="${id}">${D3.sn.map((n,i)=>`<option value="${i+1}"${i+1===cur?' selected':''}>${ar(i+1)}. ${n}</option>`).join('')}</select>`;
+const NORM=s=>String(s||'').replace(/[\u064B-\u065F\u0670\u06D6-\u06ED\u0640\u08F0-\u08FF]/g,'').replace(/[ٱأإآ]/g,'ا').replace(/ى/g,'ي').replace(/ة/g,'ه').replace(/ؤ/g,'و').replace(/ئ/g,'ي').replace(/[^\u0621-\u064A ]/g,'');
+const SK=s=>NORM(s).replace(/[اويء ]/g,'');

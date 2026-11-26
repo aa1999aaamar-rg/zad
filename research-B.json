@@ -1,0 +1,803 @@
+{
+ "hadith": [
+  {
+   "sec": "marriage",
+   "ref": "Sunan Abi Dawud 2130",
+   "url": "https://sunnah.com/abudawud:2130",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Grade : Sahih (Al-Albani) صحيح (الألباني)",
+   "ar": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+   "use": "تهنئة العريس"
+  },
+  {
+   "sec": "marriage",
+   "ref": "Jami` at-Tirmidhi 1091",
+   "url": "https://sunnah.com/tirmidhi:1091",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Grade : Sahih (Darussalam)",
+   "ar": "كَانَ إِذَا رَفَّأَ الإِنْسَانَ إِذَا تَزَوَّجَ قَالَ بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+   "use": "تهنئة العريس (رواية الترمذي)"
+  },
+  {
+   "sec": "marriage",
+   "ref": "Sahih al-Bukhari 141",
+   "url": "https://sunnah.com/bukhari:141",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "لَوْ أَنَّ أَحَدَكُمْ إِذَا أَتَى أَهْلَهُ قَالَ بِسْمِ اللَّهِ اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا. فَقُضِيَ بَيْنَهُمَا وَلَدٌ، لَمْ يَضُرَّهُ",
+   "use": "دعاء إتيان الأهل"
+  },
+  {
+   "sec": "marriage",
+   "ref": "Sahih al-Bukhari 5090",
+   "url": "https://sunnah.com/bukhari:5090",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "تُنْكَحُ الْمَرْأَةُ لأَرْبَعٍ لِمَالِهَا وَلِحَسَبِهَا وَجَمَالِهَا وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ",
+   "use": "اختيار الزوجة ذات الدين"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Sunan Abi Dawud 2838",
+   "url": "https://sunnah.com/abudawud:2838",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Grade : Sahih (Al-Albani) صحيح (الألباني)",
+   "ar": "كُلُّ غُلاَمٍ رَهِينَةٌ بِعَقِيقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ وَيُحْلَقُ وَيُسَمَّى",
+   "use": "العقيقة والتسمية وحلق الرأس يوم السابع"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Jami` at-Tirmidhi 1522",
+   "url": "https://sunnah.com/tirmidhi:1522",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Grade : Sahih (Darussalam)",
+   "ar": "الْغُلاَمُ مُرْتَهَنٌ بِعَقِيقَتِهِ يُذْبَحُ عَنْهُ يَوْمَ السَّابِعِ وَيُسَمَّى وَيُحْلَقُ رَأْسُهُ",
+   "use": "العقيقة يوم السابع (رواية الترمذي)"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Sunan Abi Dawud 2834",
+   "url": "https://sunnah.com/abudawud:2834",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Grade : Sahih (Al-Albani) صحيح (الألباني)",
+   "ar": "عَنِ الْغُلاَمِ شَاتَانِ مُكَافِئَتَانِ وَعَنِ الْجَارِيَةِ شَاةٌ",
+   "use": "عدد شياه العقيقة للذكر والأنثى"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Jami` at-Tirmidhi 1513",
+   "url": "https://sunnah.com/tirmidhi:1513",
+   "status": 200,
+   "grade": "حسن",
+   "grade_shown": "Grade | : | Hasan | (Darussalam)",
+   "ar": "أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَهُمْ عَنِ الْغُلاَمِ شَاتَانِ مُكَافِئَتَانِ وَعَنِ الْجَارِيَةِ شَاةٌ",
+   "use": "عدد شياه العقيقة (رواية الترمذي)"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Sahih al-Bukhari 5467",
+   "url": "https://sunnah.com/bukhari:5467",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "وُلِدَ لِي غُلاَمٌ، فَأَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَسَمَّاهُ إِبْرَاهِيمَ، فَحَنَّكَهُ بِتَمْرَةٍ، وَدَعَا لَهُ بِالْبَرَكَةِ وَدَفَعَهُ إِلَىَّ، وَكَانَ أَكْبَرَ وَلَدِ أَبِي مُوسَى",
+   "use": "التحنيك والتسمية والدعاء بالبركة للمولود"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Sahih Muslim 2132",
+   "url": "https://sunnah.com/muslim:2132",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "إِنَّ أَحَبَّ أَسْمَائِكُمْ إِلَى اللَّهِ عَبْدُ اللَّهِ وَعَبْدُ الرَّحْمَنِ",
+   "use": "أحب الأسماء إلى الله"
+  },
+  {
+   "sec": "newborn",
+   "ref": "Sahih Muslim 2139",
+   "url": "https://sunnah.com/muslim:2139",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم غَيَّرَ اسْمَ عَاصِيَةَ وَقَالَ أَنْتِ جَمِيلَةُ",
+   "use": "تغيير الاسم القبيح"
+  },
+  {
+   "sec": "hajj",
+   "ref": "Sahih al-Bukhari 1549",
+   "url": "https://sunnah.com/bukhari:1549",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لاَ شَرِيكَ لَكَ",
+   "use": "التلبية"
+  },
+  {
+   "sec": "hajj",
+   "ref": "Jami` at-Tirmidhi 3585",
+   "url": "https://sunnah.com/tirmidhi:3585",
+   "status": 200,
+   "grade": "ضعيف",
+   "grade_shown": "Grade | : | Da’if | (Darussalam)",
+   "ar": "خَيْرُ الدُّعَاءِ دُعَاءُ يَوْمِ عَرَفَةَ وَخَيْرُ مَا قُلْتُ أَنَا وَالنَّبِيُّونَ مِنْ قَبْلِي لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+   "use": "دعاء يوم عرفة",
+   "note": "درجته على sunnah.com: Da`if (Darussalam). لا يعرض كحديث صحيح؛ يُفضّل استبعاده أو إظهار «ضعيف»."
+  },
+  {
+   "sec": "hajj",
+   "ref": "Sahih al-Bukhari 1751",
+   "url": "https://sunnah.com/bukhari:1751",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "أَنَّهُ كَانَ يَرْمِي الْجَمْرَةَ الدُّنْيَا بِسَبْعِ حَصَيَاتٍ، يُكَبِّرُ عَلَى إِثْرِ كُلِّ حَصَاةٍ، ثُمَّ يَتَقَدَّمُ حَتَّى يُسْهِلَ فَيَقُومَ مُسْتَقْبِلَ الْقِبْلَةِ فَيَقُومُ طَوِيلاً، وَيَدْعُو وَيَرْفَعُ يَدَيْهِ، ثُمَّ يَرْمِي الْوُسْطَى، ثُمَّ يَأْخُذُ ذَاتَ الشِّمَالِ فَيَسْتَهِلُ وَيَقُومُ مُسْتَقْبِلَ الْقِبْلَةِ فَيَقُومُ طَوِيلاً وَيَدْعُو وَيَرْفَعُ يَدَيْهِ، وَيَقُومُ طَوِيلاً، ثُمَّ يَرْمِي جَمْرَةَ ذَاتِ الْعَقَبَةِ مِنْ بَطْنِ الْوَادِي، وَلاَ يَقِفُ عِنْدَهَا ثُمَّ يَنْصَرِفُ فَيَقُولُ هَكَذَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَفْعَلُهُ",
+   "use": "رمي الجمار الثلاث والتكبير مع كل حصاة والدعاء بعد الأولى والوسطى",
+   "note": "التكبير مع كل حصاة: فعل ابن عمر وقال هكذا رأيت النبي ﷺ يفعله"
+  },
+  {
+   "sec": "hajj",
+   "ref": "Sahih Muslim 1297",
+   "url": "https://sunnah.com/muslim:1297",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَرْمِي عَلَى رَاحِلَتِهِ يَوْمَ النَّحْرِ وَيَقُولُ لِتَأْخُذُوا مَنَاسِكَكُمْ فَإِنِّي لاَ أَدْرِي لَعَلِّي لاَ أَحُجُّ بَعْدَ حَجَّتِي هَذِهِ",
+   "use": "«لتأخذوا مناسككم»",
+   "note": "النص على sunnah.com بلفظ «لِتَأْخُذُوا مَنَاسِكَكُمْ» (لا «خذوا عني مناسككم»)"
+  },
+  {
+   "sec": "hajj",
+   "ref": "Jami` at-Tirmidhi 889",
+   "url": "https://sunnah.com/tirmidhi:889",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Grade : Sahih (Darussalam)",
+   "ar": "الْحَجُّ عَرَفَةُ مَنْ جَاءَ لَيْلَةَ جَمْعٍ قَبْلَ طُلُوعِ الْفَجْرِ فَقَدْ أَدْرَكَ الْحَجَّ أَيَّامُ مِنًى ثَلاَثَةٌ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلاَ إِثْمَ عَلَيْهِ",
+   "use": "الحج عرفة"
+  },
+  {
+   "sec": "hajj",
+   "ref": "Sahih Muslim 1348",
+   "url": "https://sunnah.com/muslim:1348",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "مَا مِنْ يَوْمٍ أَكْثَرَ مِنْ أَنْ يُعْتِقَ اللَّهُ فِيهِ عَبْدًا مِنَ النَّارِ مِنْ يَوْمِ عَرَفَةَ وَإِنَّهُ لَيَدْنُو ثُمَّ يُبَاهِي بِهِمُ الْمَلاَئِكَةَ فَيَقُولُ مَا أَرَادَ هَؤُلاَءِ",
+   "use": "فضل يوم عرفة"
+  },
+  {
+   "sec": "hajj",
+   "ref": "Sunan Abi Dawud 1892",
+   "url": "https://sunnah.com/abudawud:1892",
+   "status": 200,
+   "grade": "حسن",
+   "grade_shown": "Grade | : | Hasan | (Al-Albani) | حسن | (الألباني) | حكم | :",
+   "ar": "مَا بَيْنَ الرُّكْنَيْنِ { رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ }",
+   "use": "الدعاء بين الركن اليماني والحجر الأسود"
+  },
+  {
+   "sec": "ziyarat",
+   "ref": "Sahih al-Bukhari 1193",
+   "url": "https://sunnah.com/bukhari:1193",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْتِي مَسْجِدَ قُبَاءٍ كُلَّ سَبْتٍ مَاشِيًا وَرَاكِبًا",
+   "use": "زيارة قباء كل سبت"
+  },
+  {
+   "sec": "ziyarat",
+   "ref": "Sunan Ibn Majah 1412",
+   "url": "https://sunnah.com/ibnmajah:1412",
+   "status": 200,
+   "grade": "حسن",
+   "grade_shown": "Grade | : | Hasan | (Darussalam)",
+   "ar": "مَنْ تَطَهَّرَ فِي بَيْتِهِ، ثُمَّ أَتَى مَسْجِدَ قُبَاءٍ، فَصَلَّى فِيهِ صَلاَةً، كَانَ لَهُ كَأَجْرِ عُمْرَةٍ",
+   "use": "فضل الصلاة في قباء"
+  },
+  {
+   "sec": "ziyarat",
+   "ref": "Jami` at-Tirmidhi 324",
+   "url": "https://sunnah.com/tirmidhi:324",
+   "status": 200,
+   "grade": "حسن",
+   "grade_shown": "Grade | : | Hasan | (Darussalam)",
+   "ar": "الصَّلاَةُ فِي مَسْجِدِ قُبَاءٍ كَعُمْرَةٍ",
+   "use": "فضل الصلاة في قباء (رواية الترمذي)"
+  },
+  {
+   "sec": "ziyarat",
+   "ref": "Sahih al-Bukhari 1189",
+   "url": "https://sunnah.com/bukhari:1189",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى ثَلاَثَةِ مَسَاجِدَ الْمَسْجِدِ الْحَرَامِ، وَمَسْجِدِ الرَّسُولِ صلى الله عليه وسلم وَمَسْجِدِ الأَقْصَى",
+   "use": "لا تشد الرحال إلا لثلاثة مساجد"
+  },
+  {
+   "sec": "ziyarat",
+   "ref": "Sahih al-Bukhari 1190",
+   "url": "https://sunnah.com/bukhari:1190",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "صَلاَةٌ فِي مَسْجِدِي هَذَا خَيْرٌ مِنْ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ إِلاَّ الْمَسْجِدَ الْحَرَامَ",
+   "use": "فضل الصلاة في المسجد النبوي"
+  },
+  {
+   "sec": "ziyarat",
+   "ref": "Sahih Muslim 975",
+   "url": "https://sunnah.com/muslim:975",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَلِّمُهُمْ إِذَا خَرَجُوا إِلَى الْمَقَابِرِ فَكَانَ قَائِلُهُمْ يَقُولُ - فِي رِوَايَةِ أَبِي بَكْرٍ - السَّلاَمُ عَلَى أَهْلِ الدِّيَارِ - وَفِي رِوَايَةِ زُهَيْرٍ - السَّلاَمُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ وَإِنَّا إِنْ شَاءَ اللَّهُ لَلَاحِقُونَ أَسْأَلُ اللَّهَ لَنَا وَلَكُمْ الْعَافِيَةَ",
+   "use": "دعاء زيارة القبور"
+  },
+  {
+   "sec": "women",
+   "ref": "Sahih Muslim 335c",
+   "url": "https://sunnah.com/muslim:335c",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "سَأَلْتُ عَائِشَةَ فَقُلْتُ مَا بَالُ الْحَائِضِ تَقْضِي الصَّوْمَ وَلاَ تَقْضِي الصَّلاَةَ فَقَالَتْ أَحَرُورِيَّةٌ أَنْتِ قُلْتُ لَسْتُ بِحَرُورِيَّةٍ وَلَكِنِّي أَسْأَلُ . قَالَتْ كَانَ يُصِيبُنَا ذَلِكَ فَنُؤْمَرُ بِقَضَاءِ الصَّوْمِ وَلاَ نُؤْمَرُ بِقَضَاءِ الصَّلاَةِ",
+   "use": "الحائض تقضي الصوم لا الصلاة",
+   "note": "رقم 335 على sunnah.com رواية أخرى بلا لفظ الصوم؛ اللفظ المطلوب في 335c"
+  },
+  {
+   "sec": "women",
+   "ref": "Sahih al-Bukhari 304",
+   "url": "https://sunnah.com/bukhari:304",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "أَلَيْسَ إِذَا حَاضَتْ لَمْ تُصَلِّ وَلَمْ تَصُمْ",
+   "use": "الحائض لا تصلي ولا تصوم"
+  },
+  {
+   "sec": "newmuslim",
+   "ref": "Sahih Muslim 8",
+   "url": "https://sunnah.com/muslim:8",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "بَيْنَمَا نَحْنُ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ إِذْ طَلَعَ عَلَيْنَا رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ شَدِيدُ سَوَادِ الشَّعَرِ لاَ يُرَى عَلَيْهِ أَثَرُ السَّفَرِ وَلاَ يَعْرِفُهُ مِنَّا أَحَدٌ حَتَّى جَلَسَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَسْنَدَ رُكْبَتَيْهِ إِلَى رُكْبَتَيْهِ وَوَضَعَ كَفَّيْهِ عَلَى فَخِذَيْهِ وَقَالَ يَا مُحَمَّدُ أَخْبِرْنِي عَنِ الإِسْلاَمِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم الإِسْلاَمُ أَنْ تَشْهَدَ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَتُقِيمَ الصَّلاَةَ وَتُؤْتِيَ الزَّكَاةَ وَتَصُومَ رَمَضَانَ وَتَحُجَّ الْبَيْتَ إِنِ اسْتَطَعْتَ إِلَيْهِ سَبِيلاً . قَالَ صَدَقْتَ . قَالَ فَعَجِبْنَا لَهُ يَسْأَلُهُ وَيُصَدِّقُهُ . قَالَ فَأَخْبِرْنِي عَنِ الإِيمَانِ . قَالَ أَنْ تُؤْمِنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الآخِرِ وَتُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ . قَالَ صَدَقْتَ . قَالَ فَأَخْبِرْنِي عَنِ الإِحْسَانِ . قَالَ أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ",
+   "use": "حديث جبريل: الإسلام والإيمان والإحسان (مقتطع قبل سؤال الساعة)"
+  },
+  {
+   "sec": "newmuslim",
+   "ref": "Sahih al-Bukhari 8",
+   "url": "https://sunnah.com/bukhari:8",
+   "status": 200,
+   "grade": "صحيح",
+   "grade_shown": "Sahih (in the Sahih collection; no grade line on sunnah.com)",
+   "ar": "بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ",
+   "use": "أركان الإسلام الخمسة"
+  }
+ ],
+ "history": [
+  {
+   "hm": 1,
+   "hd": 10,
+   "hy": null,
+   "t": "يوم عاشوراء: نجّى الله موسى عليه السلام",
+   "d": "صيام عاشوراء في العاشر من محرم، وهو اليوم الذي نجّى الله فيه موسى عليه السلام.",
+   "src": "الإسلام سؤال وجواب (islamqa.info)",
+   "url": "https://islamqa.info/ar/events/31",
+   "status": 200,
+   "quote": "صيام عاشوراء الذي نصومه في العاشر من شهر محرَّم هو اليوم الذي نجَّى الله تعالى فيه موسى عليه السلام"
+  },
+  {
+   "hm": 9,
+   "hd": 17,
+   "hy": 2,
+   "t": "غزوة بدر الكبرى",
+   "d": "وقعت غزوة بدر في السابع عشر من رمضان سنة ٢هـ، وهي أولى غزوات النبي ﷺ.",
+   "src": "الإسلام سؤال وجواب (islamqa.info)",
+   "url": "https://islamqa.info/ar/articles/26",
+   "status": 200,
+   "quote": "وحدثت في 17 رمضان سنة 2 هـ، وهي أولى غزوات النبي صلى الله عليه وسلم"
+  },
+  {
+   "hm": 9,
+   "hd": 10,
+   "hy": 8,
+   "t": "خروج النبي ﷺ لفتح مكة",
+   "d": "خرج النبي ﷺ من المدينة لفتح مكة في العاشر من رمضان سنة ٨هـ.",
+   "src": "الإسلام سؤال وجواب (islamqa.info)",
+   "url": "https://islamqa.info/ar/articles/26",
+   "status": 200,
+   "quote": "سنة ثمان للهجرة، وكان خروج النبي صلى الله عليه وسلم من المدينة في عاشر رمضان ودخل مكة لتسع عشرة ليلة خلت منه"
+  },
+  {
+   "hm": 9,
+   "hd": 19,
+   "hy": 8,
+   "t": "دخول النبي ﷺ مكة فاتحًا",
+   "d": "دخل النبي ﷺ مكة فاتحًا لتسع عشرة ليلة خلت من رمضان سنة ٨هـ.",
+   "src": "الإسلام سؤال وجواب (islamqa.info)",
+   "url": "https://islamqa.info/ar/articles/26",
+   "status": 200,
+   "quote": "سنة ثمان للهجرة، وكان خروج النبي صلى الله عليه وسلم من المدينة في عاشر رمضان ودخل مكة لتسع عشرة ليلة خلت منه",
+   "note": "المصدر: «لتسع عشرة ليلة خلت منه» — بعرف المؤرخين = ١٩ رمضان"
+  },
+  {
+   "hm": 9,
+   "hd": 25,
+   "hy": 658,
+   "t": "معركة عين جالوت",
+   "d": "التقى المسلمون بقيادة المظفر قطز والتتار في عين جالوت يوم الجمعة الخامس والعشرين من رمضان سنة ٦٥٨هـ، ونصر الله المسلمين.",
+   "src": "الإسلام سؤال وجواب (islamqa.info)",
+   "url": "https://islamqa.info/ar/articles/26",
+   "status": 200,
+   "quote": "نزل الغور بعين جالوت وفيه جموع التتار في يوم الجمعة خامس عشرين شهر رمضان، ووقع المصاف بينهم في اليوم المذكور"
+  },
+  {
+   "hm": 3,
+   "hd": 12,
+   "hy": 11,
+   "t": "وفاة النبي ﷺ",
+   "d": "توفي النبي ﷺ يوم الاثنين الثاني عشر من ربيع الأول سنة ١١هـ، وقد تمّ له من العمر ٦٣ سنة.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/145",
+   "status": 200,
+   "quote": "ثمَّ تَوفَّاهُ الله تعالى يَومَ الاثنين في الثَّاني عشر من رَبيعٍ الأوَّلِ، وقد تَمَّ له مِنَ العُمُرِ 63 سَنَةً",
+   "note": "islamqa.info/ar/answers/599505 ينقل أيضًا: «توفي رسول الله ﷺ لاثنتي عشرة ليلة خلت من شهر ربيع الأول» — هذا هو المشهور؛ بعض أهل العلم ذكر أقوالًا أخرى في يوم الوفاة"
+  },
+  {
+   "hm": 11,
+   "hd": 25,
+   "hy": 10,
+   "t": "خروج النبي ﷺ إلى حجة الوداع",
+   "d": "خرج النبي ﷺ من المدينة إلى حجة الوداع لخمس بقين من ذي القعدة سنة ١٠هـ.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/143",
+   "status": 200,
+   "quote": "وخرَج مِنَ المدينةِ لِخمسٍ بَقِينَ مِن ذي القَعدةِ",
+   "note": "المصدر: «لخمس بقين من ذي القعدة» = ٢٥ إذا كان الشهر ثلاثين يومًا (٢٤ إذا كان ٢٩)"
+  },
+  {
+   "hm": 12,
+   "hd": 9,
+   "hy": null,
+   "t": "نزول «اليوم أكملت لكم دينكم»",
+   "d": "نزلت آية «اليوم أكملت لكم دينكم» على النبي ﷺ وهو قائم بعرفة يوم جمعة، كما قال عمر رضي الله عنه.",
+   "src": "صحيح البخاري ٤٥ (sunnah.com)",
+   "url": "https://sunnah.com/bukhari:45",
+   "status": 200,
+   "quote": "قَالَ عُمَرُ قَدْ عَرَفْنَا ذَلِكَ الْيَوْمَ وَالْمَكَانَ الَّذِي نَزَلَتْ فِيهِ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ قَائِمٌ بِعَرَفَةَ يَوْمَ جُمُعَةٍ",
+   "note": "الحديث يذكر «بعرفة يوم جمعة» دون رقم اليوم أو السنة؛ يوم الوقوف بعرفة هو التاسع من ذي الحجة"
+  },
+  {
+   "hm": 12,
+   "hd": 8,
+   "hy": null,
+   "t": "يوم التروية: الإحرام بالحج والتوجه إلى منى",
+   "d": "أحرم الصحابة الذين تحللوا من العمرة بالحج يوم الثامن من ذي الحجة بأمر النبي ﷺ ثم توجهوا إلى منى.",
+   "src": "موقع الشيخ ابن باز (binbaz.org.sa)",
+   "url": "https://binbaz.org.sa/fatwas/15866/%D9%85%D8%A7-%D9%8A%D9%81%D8%B9%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%AC-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86-%D9%85%D9%86-%D8%B0%D9%8A-%D8%A7%D9%84%D8%AD%D8%AC%D8%A9",
+   "status": 200,
+   "quote": "لأن النبي ﷺ أمر أصحابه  الذين تحللوا من العمرة بذلك فأحرموا بالحج يوم الثامن ثم توجهوا إلى منى"
+  },
+  {
+   "hm": 4,
+   "hd": 25,
+   "hy": 583,
+   "t": "معركة حطين",
+   "d": "هزم صلاح الدين الأيوبي الصليبيين في حطين، وكان القتال يوم السبت لخمس بقين من ربيع الآخر سنة ٥٨٣هـ.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/2240",
+   "status": 200,
+   "quote": "وأصبح صلاحُ الدين والمسلمونَ يوم السبت لخمسٍ بَقِينَ مِن ربيع الآخر",
+   "note": "المصدر: «لخمس بقين من ربيع الآخر» = ٢٥ إذا كان الشهر ثلاثين (٢٤ إذا كان ٢٩)"
+  },
+  {
+   "hm": 7,
+   "hd": 27,
+   "hy": 583,
+   "t": "صلاح الدين يستعيد بيت المقدس",
+   "d": "سُلّمت مدينة القدس لصلاح الدين يوم الجمعة السابع والعشرين من رجب سنة ٥٨٣هـ، ورُفعت الأعلام الإسلامية على أسوارها.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/2245",
+   "status": 200,
+   "quote": "وسُلِّمَت المدينةُ يوم الجمعة السابع والعشرين من رجَبٍ، وكان يومًا مشهودًا، ورَفَّت الأعلامُ الإسلاميَّةُ على أسوارِها"
+  },
+  {
+   "hm": 5,
+   "hd": 20,
+   "hy": 857,
+   "t": "فتح القسطنطينية",
+   "d": "بدأ الهجوم العام على القسطنطينية يوم الثلاثاء ٢٠ جمادى الأولى سنة ٨٥٧هـ ففتحها السلطان محمد الفاتح ودخل آيا صوفيا وحوّلها إلى مسجد.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/3446",
+   "status": 200,
+   "quote": "وعند الساعة الواحدة صباحًا من يوم الثلاثاء 20 جمادى الأولى سنة 857 … بدأ الهجوم العام على المدينة"
+  },
+  {
+   "hm": 5,
+   "hd": 21,
+   "hy": 1351,
+   "t": "إعلان توحيد المملكة العربية السعودية",
+   "d": "في ٢١ جمادى الأولى ١٣٥١هـ صدر مرسوم ملكي وحّد أجزاء المملكة فأصبحت مملكة واحدة باسم المملكة العربية السعودية.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/5065",
+   "status": 200,
+   "quote": "ثم في 21 جمادى الأولى من هذا العام 1351هـ الموافق 22 أيلول / سبتمبر 1932م صدر مرسومٌ مَلكيٌّ وحَّدَ أجزاء المملكة جميعًا، فأصبحت مملكةً واحدةً باسم (المملكة العربية السعودية)"
+  },
+  {
+   "hm": 10,
+   "hd": 1,
+   "hy": 256,
+   "t": "وفاة الإمام البخاري",
+   "d": "توفي الإمام البخاري صاحب الصحيح في خرتنك قرب سمرقند ليلة الفطر عن ٦٢ سنة.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/845",
+   "status": 200,
+   "quote": "وفيها توفِّيَ عن عمر 62 سنة، توفِّي ليلة الفطر",
+   "note": "المصدر: «ليلة الفطر» — أي ليلة الأول من شوال؛ السنة ٢٥٦ من رأس الصفحة (العام الهجري)"
+  },
+  {
+   "hm": 2,
+   "hd": 10,
+   "hy": 99,
+   "t": "عمر بن عبد العزيز يتولى الخلافة",
+   "d": "توفي سليمان بن عبد الملك في العاشر من صفر سنة ٩٩هـ وتولى عمر بن عبد العزيز الخلافة.",
+   "src": "الدرر السنية — الموسوعة التاريخية (dorar.net)",
+   "url": "https://dorar.net/history/event/392",
+   "status": 200,
+   "quote": "تُوفِّيَ سُليمان بن عبدِ الملك في العاشِر مِن صَفَر سَنَة 99هـ، وتَوَلَّى عُمَرُ بن عبدِ العزيز الخِلافَةَ"
+  }
+ ],
+ "newmuslim": [
+  {
+   "lang": "ar",
+   "title": "كيف أعرف أحكام الدين؟",
+   "page_title": "دليل المسلم الجديد",
+   "url": "https://newmuslimguide.com/ar",
+   "kind": "guide",
+   "status": 200,
+   "site": "newmuslimguide.com"
+  },
+  {
+   "lang": "ar",
+   "title": "كيف أتوضأ؟",
+   "page_title": "دليل المسلم الجديد | كيف أتوضأ؟",
+   "url": "https://newmuslimguide.com/ar/categories/your-purification/66f7724f354f9",
+   "kind": "wudu",
+   "status": 200,
+   "site": "newmuslimguide.com"
+  },
+  {
+   "lang": "ar",
+   "title": "كيف أصلي؟",
+   "page_title": "دليل المسلم الجديد | كيف أصلي؟",
+   "url": "https://newmuslimguide.com/ar/categories/your-prayer/670de63436400",
+   "kind": "salah",
+   "status": 200,
+   "site": "newmuslimguide.com"
+  },
+  {
+   "lang": "ar",
+   "title": "أركان الإسلام الخمسة",
+   "page_title": "دليل المسلم الجديد | أركان الإسلام الخمسة",
+   "url": "https://newmuslimguide.com/ar/preliminaries/6410daa3a3554",
+   "kind": "basics",
+   "status": 200,
+   "site": "newmuslimguide.com"
+  },
+  {
+   "lang": "ar",
+   "title": "حياتك الجديدة",
+   "page_title": "دليل المسلم الجديد | حياتك الجديدة",
+   "url": "https://newmuslimguide.com/ar/categories/your-new-life",
+   "kind": "shahada",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "قسم «حياتك الجديدة» (أول ما يفعله المسلم الجديد)؛ لم أجد صفحة مستقلة عنوانها الشهادة في الموقع"
+  },
+  {
+   "lang": "ar",
+   "title": "ما يحتاجه المسلم الجديد",
+   "page_title": "ما يحتاجه المسلم الجديد » التصنيفات » جميع المواد » الصفحة : 1",
+   "url": "https://islamhouse.com/ar/category/179666/showall/ar/1/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com",
+   "note": "صفحة قائمة (تصنيف) على islamhouse وليست مقالًا واحدًا"
+  },
+  {
+   "lang": "en",
+   "title": "How to Find out about the Rulings of Islam",
+   "page_title": "The New Muslim Guide",
+   "url": "https://newmuslimguide.com/en",
+   "kind": "guide",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "en",
+   "title": "Manner of Performing the partial Ablution (Wudoo’)",
+   "page_title": "The New Muslim Guide | Manner of Performing the partial Ablution (Wudoo’)",
+   "url": "https://newmuslimguide.com/en/categories/your-purification/66f7724f354f9",
+   "kind": "wudu",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "en",
+   "title": "How to Pray",
+   "page_title": "The New Muslim Guide | How to Pray",
+   "url": "https://newmuslimguide.com/en/categories/your-prayer/670de63436400",
+   "kind": "salah",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "en",
+   "title": "The Five Pillars of Islam",
+   "page_title": "The New Muslim Guide | The Five Pillars of Islam",
+   "url": "https://newmuslimguide.com/en/preliminaries/6410daa3a3554",
+   "kind": "basics",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "en",
+   "title": "Your New Life",
+   "page_title": "The New Muslim Guide | Your New Life",
+   "url": "https://newmuslimguide.com/en/categories/your-new-life",
+   "kind": "shahada",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "en",
+   "title": "The New Muslim Guide",
+   "page_title": "The New Muslim Guide - English - هيثم سرحان",
+   "url": "https://islamhouse.com/en/books/2838874/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "en",
+   "title": "How to Make Wudū’ (Ablution): An Illustrated Explanation of How to Make Wudū",
+   "page_title": "How to Make Wudū’ (Ablution): An Illustrated Explanation of How to Make Wudū - English - Osoul Center Team",
+   "url": "https://islamhouse.com/en/books/2839339/",
+   "kind": "wudu",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "en",
+   "title": "Matters of New Muslim",
+   "page_title": "Matters of New Muslim » Categories » All items » Page : 1",
+   "url": "https://islamhouse.com/en/category/179666/showall/en/1/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com",
+   "note": "صفحة قائمة (تصنيف) على islamhouse وليست مقالًا واحدًا"
+  },
+  {
+   "lang": "tl",
+   "title": "Paano Ko Malalaman [at Matutuhan] ang Mga Batas ng Relihiyong (Islam)?",
+   "page_title": "Ang Gabay Para sa Bagong Muslim",
+   "url": "https://newmuslimguide.com/fil",
+   "kind": "guide",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "tl",
+   "title": "Paano Ako Magsasagawa ng Wudhu’?",
+   "page_title": "Ang Gabay Para sa Bagong Muslim | Paano Ako Magsasagawa ng Wudhu’?",
+   "url": "https://newmuslimguide.com/fil/categories/your-purification/66f7724f354f9",
+   "kind": "wudu",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "tl",
+   "title": "Paano Ako magsasagawa ng Salaah?",
+   "page_title": "Ang Gabay Para sa Bagong Muslim | Paano Ako magsasagawa ng Salaah?",
+   "url": "https://newmuslimguide.com/fil/categories/your-prayer/670de63436400",
+   "kind": "salah",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "tl",
+   "title": "Ang Limang Haligi ng Islam :",
+   "page_title": "Ang Gabay Para sa Bagong Muslim | Ang Limang Haligi ng Islam :",
+   "url": "https://newmuslimguide.com/fil/preliminaries/6410daa3a3554",
+   "kind": "basics",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "tl",
+   "title": "Ang Iyong Bagong Buhay",
+   "page_title": "Ang Gabay Para sa Bagong Muslim | Ang Iyong Bagong Buhay",
+   "url": "https://newmuslimguide.com/fil/categories/your-new-life",
+   "kind": "shahada",
+   "status": 200,
+   "site": "newmuslimguide.com",
+   "note": "يعرض اللغة الصحيحة لمتصفح لغته إنجليزي/فلبيني؛ طلب بدون Accept-Language مناسب يُحوَّل (307) إلى النسخة العربية"
+  },
+  {
+   "lang": "tl",
+   "title": "PAMAMARAAN NG PAGSASAGAWA NG SALAH",
+   "page_title": "PAMAMARAAN NG PAGSASAGAWA NG SALAH - Tagalog - Muhammad Taha Ali",
+   "url": "https://islamhouse.com/tl/videos/2833488/",
+   "kind": "salah",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "tl",
+   "title": "Matters of New Muslim",
+   "page_title": "Matters of New Muslim » Ang mga kategorya » Lahat ng mga materyalis. » Ang pahina : 1",
+   "url": "https://islamhouse.com/tl/category/179666/showall/tl/1/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com",
+   "note": "صفحة قائمة (تصنيف) على islamhouse وليست مقالًا واحدًا"
+  },
+  {
+   "lang": "tl",
+   "title": "Bagong Muslim ako, Ano ang pag-aaralan ko?",
+   "page_title": "Bagong Muslim ako, Ano ang pag-aaralan ko? - Tagalog",
+   "url": "https://islamhouse.com/tl/books/367327/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "ur",
+   "title": "نئے مسلمان کے لئے رہنما کتاب، اسلام کیا ہے؟",
+   "page_title": "نئے مسلمان کے لئے رہنما کتاب، اسلام کیا ہے؟ - اردو - هيثم سرحان",
+   "url": "https://islamhouse.com/ur/books/2839587/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "ur",
+   "title": "نو مسلم کے احکام",
+   "page_title": "نو مسلم کے احکام » زمرے » تمام مادّے » صفحہ : 1",
+   "url": "https://islamhouse.com/ur/category/179666/showall/ur/1/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com",
+   "note": "صفحة قائمة (تصنيف) على islamhouse وليست مقالًا واحدًا"
+  },
+  {
+   "lang": "ur",
+   "title": "وضوء کا طریقہ",
+   "page_title": "وضوء کا طریقہ - اردو - اللجنة العلمية برئاسة الشؤون الدينية بالمسجد الحرام والمسجد النبوي",
+   "url": "https://islamhouse.com/ur/videos/2846112/",
+   "kind": "wudu",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "ur",
+   "title": "وضو، تیمّم اور غسل کا طریقہ",
+   "page_title": "وضو، تیمّم اور غسل کا طریقہ - اردو - هيثم سرحان",
+   "url": "https://islamhouse.com/ur/articles/2835258/",
+   "kind": "wudu",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "ur",
+   "title": "نماز کا طریقہ (مختصر ویڈیو کلپ)",
+   "page_title": "نماز کا طریقہ (مختصر ویڈیو کلپ) - اردو - الفريق العلمي بجمعية خدمة المحتوى الإسلامي باللغات",
+   "url": "https://islamhouse.com/ur/videos/2844734/",
+   "kind": "salah",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "ur",
+   "title": "نبی کریم صلی اللہ علیہ وسلم کی نماز کا طریقہ",
+   "page_title": "نبی کریم صلی اللہ علیہ وسلم کی نماز کا طریقہ - اردو - عبد العزيز بن عبد الله بن باز",
+   "url": "https://islamhouse.com/ur/books/1099/",
+   "kind": "salah",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "id",
+   "title": "Hukum-hukum Muallaf",
+   "page_title": "Hukum-hukum Muallaf » Kategori » Semua Materi » Halaman : 1",
+   "url": "https://islamhouse.com/id/category/179666/showall/id/1/",
+   "kind": "guide",
+   "status": 200,
+   "site": "islamhouse.com",
+   "note": "صفحة قائمة (تصنيف) على islamhouse وليست مقالًا واحدًا"
+  },
+  {
+   "lang": "id",
+   "title": "TATA CARA WUDU",
+   "page_title": "TATA CARA WUDU - Indonesia - اللجنة العلمية برئاسة الشؤون الدينية بالمسجد الحرام والمسجد النبوي",
+   "url": "https://islamhouse.com/id/videos/2846100/",
+   "kind": "wudu",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "id",
+   "title": "Tata Cara Wudhu Yang Sempurna",
+   "page_title": "Tata Cara Wudhu Yang Sempurna - Indonesia - Lembaga Dialog Ilmiah dan Ifta dan dakwah dan penerangan",
+   "url": "https://islamhouse.com/id/fatwa/309915/",
+   "kind": "wudu",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "id",
+   "title": "TATA CARA SALAT",
+   "page_title": "TATA CARA SALAT - Indonesia - الفريق العلمي بجمعية خدمة المحتوى الإسلامي باللغات",
+   "url": "https://islamhouse.com/id/videos/2844951/",
+   "kind": "salah",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "id",
+   "title": "Tata Cara shalat Nabi Muhammad",
+   "page_title": "Tata Cara shalat Nabi Muhammad - Indonesia - Syaikh Haitsam Bin Muhammad Jamil Sarhan",
+   "url": "https://islamhouse.com/id/articles/2834917/",
+   "kind": "salah",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "id",
+   "title": "TAUHID & MAKNA SYAHADATAIN",
+   "page_title": "TAUHID & MAKNA SYAHADATAIN - Indonesia - Kantor Dakwah Jaliyat Sulay - Riyadh",
+   "url": "https://islamhouse.com/id/books/1633/",
+   "kind": "shahada",
+   "status": 200,
+   "site": "islamhouse.com"
+  },
+  {
+   "lang": "id",
+   "title": "Rukun-Rukun Islam",
+   "page_title": "Rukun-Rukun Islam » Kategori » Semua Materi » Halaman : 1",
+   "url": "https://islamhouse.com/id/category/428773/showall/showall/1/",
+   "kind": "basics",
+   "status": 200,
+   "site": "islamhouse.com",
+   "note": "صفحة قائمة (تصنيف) على islamhouse وليست مقالًا واحدًا"
+  }
+ ],
+ "_meta": {
+  "generated": "2026-10-24",
+  "notes": [
+   "hadith: ar = الجزء المطلوب من نص الصفحة حرفيًا (أُزيلت علامات الاتجاه U+200F وعلامات التنصيص فقط)؛ grade_shown = ما تعرضه sunnah.com؛ الصحيحان بلا سطر درجة على الموقع فوُضع صحيح",
+   "history: quote حرفي من الصفحة بالتشكيل كما هو؛ عند صيغة «لخمس بقين» حُسب اليوم على شهر ثلاثين وذُكر ذلك في note",
+   "newmuslim: newmuslimguide.com يدعم ar/en/fil فقط (لا أردو ولا إندونيسي) لذلك ur/id من islamhouse.com"
+  ]
+ }
+}

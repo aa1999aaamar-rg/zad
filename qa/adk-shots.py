@@ -1,0 +1,31 @@
+import json,sys,asyncio,os,re
+from playwright.async_api import async_playwright
+BASE=sys.argv[1]; OUT=sys.argv[2]; os.makedirs(OUT,exist_ok=True)
+SEED={"onboarded":True,"profile":{"name":""},"settings":{"theme":"light","accent":"#34457a","qsize":26,"lang":"ar","city":"riyadh","cityUser":True,"rep":3,"reciter":"maher"},"zsr":{"never":1}}
+INIT="""(()=>{try{if(!localStorage.getItem('qa.init')){localStorage.setItem('qa.init','1');localStorage.setItem('ammar.v1',JSON.stringify(%s));localStorage.setItem('ammar.lastSeen','5.1.0');localStorage.setItem('zsh.prompt',JSON.stringify({never:1}))}}catch(e){}})();"""%json.dumps(SEED,ensure_ascii=False)
+async def main():
+  async with async_playwright() as p:
+    b=await p.chromium.launch(args=['--no-sandbox'])
+    c=await b.new_context(viewport={'width':390,'height':844},device_scale_factor=2,locale='ar-SA',timezone_id='Asia/Riyadh')
+    await c.add_init_script(INIT)
+    await c.route(re.compile(r'.*/api/social/ref/reg.*'),lambda r: r.fulfill(status=200,body='{"ok":true,"n":0}',headers={'content-type':'application/json'}))
+    pg=await c.new_page(); errs=[]; pg.on('pageerror',lambda e:errs.append(str(e)))
+    async def go(h,w=1200): await pg.evaluate("h=>{location.hash=h}",h); await pg.wait_for_timeout(w)
+    async def hide_toast(): await pg.evaluate("()=>{const t=document.getElementById('toast');t&&t.classList.remove('show')}")
+    await pg.goto(BASE+'/#home',wait_until='load'); await pg.wait_for_timeout(2500)
+    await go('#adhkar/morning'); await pg.wait_for_selector('.zb7bar')
+    for i in (1,2,3): await pg.click(f'#dl .dk:nth-child({i}) p')
+    await pg.wait_for_timeout(300); await pg.evaluate("window.scrollTo(0,0)"); await hide_toast(); await pg.screenshot(path=OUT+'/a1.png')
+    await pg.click('#dl .dk:nth-child(5) [data-a=src]'); await pg.evaluate("document.querySelector('#dl .dk:nth-child(5)').scrollIntoView({block:'start'});window.scrollBy(0,-70)"); await pg.wait_for_timeout(300); await hide_toast(); await pg.screenshot(path=OUT+'/a2.png')
+    await pg.evaluate("window.scrollTo(0,0)"); await pg.click('.zb7bar [data-b=focus]'); await pg.wait_for_timeout(300)
+    for _ in range(3): await pg.click('.zb7fo .rg'); await pg.wait_for_timeout(250)
+    await pg.screenshot(path=OUT+'/a3.png'); await pg.click('.zb7fo [data-f=x]')
+    await go('#adhkar/sleep'); await pg.wait_for_selector('.zb7bar'); await pg.click('.zb7bar [data-b=th]'); await pg.click('.zb7bar [data-b=th]'); await pg.click('.zb7bar [data-b="fs+"]')
+    await pg.click('#dl .dk:nth-child(3) [data-a=src]'); await pg.evaluate("document.querySelector('#dl .dk:nth-child(3)').scrollIntoView({block:'start'});window.scrollBy(0,-70)"); await pg.wait_for_timeout(300); await hide_toast(); await pg.screenshot(path=OUT+'/a4.png')
+    await pg.click('.zb7bar [data-b=th]'); await pg.click('.zb7bar [data-b=th]'); await pg.click('.zb7bar [data-b="fs-"]')
+    await go('#adksearch'); await pg.fill('#zb7q','المطر'); await pg.wait_for_timeout(700); await pg.screenshot(path=OUT+'/a5.png')
+    await go('#feel/0'); await pg.wait_for_timeout(500); await pg.evaluate("window.scrollTo(0,0)"); await pg.screenshot(path=OUT+'/a6.png')
+    await go('#adkrem'); await pg.click('[data-r="rd.on"]'); await pg.click('[data-r="lt.on"]'); await pg.click('[data-r="dh.on"]'); await pg.wait_for_timeout(2700); await pg.screenshot(path=OUT+'/a7.png')
+    await go('#sec/adhkar'); await pg.evaluate("window.scrollTo(0,380)"); await pg.wait_for_timeout(300); await pg.screenshot(path=OUT+'/a8.png')
+    print('errors',errs); await b.close()
+asyncio.run(main())
